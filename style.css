@@ -1,0 +1,243 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/613/839/non_2x/pattern-with-line-hand-drawn-doodle-vector-cooking-set-include-cooking-equipment-raw-materials-vector-illustration.jpg);
+    background-position: center center;
+    font-family: 'dm serif text', serif;
+    cursor: url(https://i.ibb.co/gTXWBr3/logo-3-removebg-preview.png) 16 16, auto;
+}
+html, body {
+    overflow: scroll;
+    scrollbar-width: none;
+}
+.hero {
+    text-align: center;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.categories-title {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+#icons {
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.categories-title h1 {
+    color: #fcc751;
+}
+.about h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.categories-title h1 {
+	text-align: center;
+}
+.about {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.submit h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.navbar-text {
+    color: #fcc751;
+}
+.subtitle {
+	text-align: center;
+}
+.submit {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.carousel-inner {
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+}
+.carousel-inner img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.carousel-caption h3 {
+    color: #fcc751;
+}
+.carousel-caption {
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.carousel-item {
+    border: 5px solid #fcc751;
+    border-radius: 10px;
+}
+.turon h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.turon {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.taho h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.taho {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.puto h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.puto {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.kare-kare h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.kare-kare {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.menudo h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.menudo {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.chicken-adobo h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.chicken-adobo {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.halo-halo h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.halo-halo {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.lecheflan h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.lecheflan {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.ubehalaya h1 {
+	text-align: center;
+    color: #fcc751;
+}
+.ubehalaya {
+	padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.bananacue h1 {
+    text-align: center;
+    color: #fcc751;
+}
+.bananacue {
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.sinigang h1 {
+    text-align: center;
+    color: #fcc751;
+}
+.sinigang {
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.bibingka h1 {
+    text-align: center;
+    color: #fcc751;
+}
+.bibingka {
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.card-title {
+    text-align: center;
+    color: #fcc751;
+}
+.card-title {
+    color: #fcc751;
+    text-shadow: 
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+.card-text {
+    text-align: center;
+}
+.card-body h2 {
+    color: #fcc751;
+    text-shadow: 
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+}
+.card {
+    border: 5px solid #fcc751;
+    border-radius: 10px;
+}
+.button {
+    text-align: center;
+}
+.animate__animated:hover {
+    animation: pulse;
+    animation-duration: 2s;
+}
+.animate__animated2 {
+    animation: jackInTheBox;
+    animation-duration: 3s;
+}
